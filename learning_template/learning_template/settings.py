@@ -26,7 +26,7 @@ SECRET_KEY = 'fva94pe@ywwl)p!8$r6vpyrayl)jphul33yu-abqfi-p&qkdgy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['poorti.pythonanywhere.com',]
 
 
 # Application definition
